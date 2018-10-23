@@ -2,6 +2,6 @@
 
 int foo(void)
 {
-   printf("Foo v4");
+   printf("Foo v6");
 }
 
