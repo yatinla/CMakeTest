@@ -3,6 +3,6 @@
 
 int foo(void)
 {
-   printf("Foo v2");
+   printf("Foo v3");
 }
 
