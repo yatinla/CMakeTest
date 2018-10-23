@@ -3,7 +3,7 @@
 
 int foo(void)
 {
-   printf("Foo v7");
+   printf("Foo v8\n");
    return 0;
 }
 
